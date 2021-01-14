@@ -27,18 +27,6 @@ void UnionFunc(UBox* up){
     up->x = 10;
 }
 
-// void atx(UB.dollar, UB.aka){
-//     if(UB.dollar > UB.aka){
-//         cout <<UB.dollar <<endl;
-//     }else{
-//         cout <<UB.aka;
-//     }
-// }
-// void abc(int a, int b){
-//     int *k;
-//     cout << *k << endl;
-// }
-
 // 클래스 심볼  parameter 클래스
 int main(){
     UBox u1;

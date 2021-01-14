@@ -23,7 +23,7 @@ int main()
 
 리턴값 심볼 자동 생성.(o)
 클래스, 네임스페이스(o)
-ex) int x = isStub(a,b);
+ex) int x = AStub(a,b);
 if(x > 0){
     return 1;
 }
